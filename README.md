@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prudhvirajboddu
+- 👋 Hi, I’m @prudhvi
 - 👀 I’m interested in Machine Learning with DevOPS
 - 🌱 I’m currently learning Data Science Tech 
 - 📫 How to reach me prudhvirajboddu@gmail.com
